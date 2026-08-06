@@ -4,21 +4,20 @@
 
 ## 🎬 Primary video (submitted)
 
-**`private_rag_agent_demo.mp4`** (in this folder) — 3 min 26 s, 1280×800, H.264.
-A screen capture of the actual application running end to end:
+**`private_rag_agent_demo_narrated.mp4`** (in this folder) — **2 min 00 s, 1440×860, H.264 + English narration**.
+A narrated walkthrough of the actual application running end to end:
 
 1. **Opening** — the empty-state UI: "100% local, offline, data never leaves this machine".
-2. **Document ingestion** — the knowledge base shows 6 documents · 15 chunks.
-3. **Single-agent Q&A** — live tool-call trace, streaming answer, citation cards.
-4. **Multi-agent parallel** — plan panel with 3 sub-tasks and progress bar, three parallel
-   researcher agents, fact-check cards with grounding scores, and the synthesized answer
-   with a per-sentence verification panel.
-5. **GPU acceleration** — the in-app GPU monitor.
-6. **Source drawer** — clicking a citation opens the original document.
+2. **Document ingestion** — three import modes (single file, whole folder, read-all local scan); knowledge base shows 6 documents · 15 chunks.
+3. **Single-agent Q&A** — live streaming answer with tool-call trace, citation cards, and the source drawer.
+4. **Multi-agent parallel** (the core) — plan panel with sub-task progress, parallel researcher agents, fact-check cards with grounding scores, and the final synthesized answer with a per-sentence verification panel.
+5. **GPU acceleration** — the in-app AMD GPU monitor.
+6. **Closing** — clicking a citation opens the original document: "retrieval you can trace, answers you can verify, data that stays on this machine."
 
-> The video is silent; a narrated version with the full shot-by-shot script
-> (`src/docs/demo_video_EN.md`) can be recorded if desired. Video link for hosting:
-> _(add Bilibili / YouTube URL here after upload)_
+> A silent full-length recording of the same run is also included (`private_rag_agent_demo.mp4`).
+> For hosted sharing, upload to Bilibili / YouTube and add the URL below.
+
+**Video link:** _(optional — add Bilibili / YouTube URL after upload)_
 
 ---
 
