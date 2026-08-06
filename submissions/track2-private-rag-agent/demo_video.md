@@ -2,9 +2,23 @@
 
 **Private RAG Agent — Track 2 (2026 AMD AI DevMaster Hackathon)**
 
-> Video placeholder — final link will be a Bilibili / YouTube upload (1080p, 3–4 min).
+## 🎬 Primary video (submitted)
 
-**Video link:** _(to be added after recording / upload)_
+**`private_rag_agent_demo.mp4`** (in this folder) — 3 min 26 s, 1280×800, H.264.
+A screen capture of the actual application running end to end:
+
+1. **Opening** — the empty-state UI: "100% local, offline, data never leaves this machine".
+2. **Document ingestion** — the knowledge base shows 6 documents · 15 chunks.
+3. **Single-agent Q&A** — live tool-call trace, streaming answer, citation cards.
+4. **Multi-agent parallel** — plan panel with 3 sub-tasks and progress bar, three parallel
+   researcher agents, fact-check cards with grounding scores, and the synthesized answer
+   with a per-sentence verification panel.
+5. **GPU acceleration** — the in-app GPU monitor.
+6. **Source drawer** — clicking a citation opens the original document.
+
+> The video is silent; a narrated version with the full shot-by-shot script
+> (`src/docs/demo_video_EN.md`) can be recorded if desired. Video link for hosting:
+> _(add Bilibili / YouTube URL here after upload)_
 
 ---
 
